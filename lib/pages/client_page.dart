@@ -1,7 +1,7 @@
 // lib/pages/client_page.dart
 
 import 'package:flutter/material.dart';
-import '../models/client.dart';
+import '../models/clients.dart';
 import '../services/client_service.dart';
 import '../templates/appbar.dart';
 import '../services/finance_service.dart';
